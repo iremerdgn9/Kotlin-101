@@ -40,8 +40,8 @@
     <Button
         android:id="@+id/button5"
         android:layout_width="155dp"
-        android:layout_height="67dp"
-        android:background="@drawable/butonarkaplani"
+        android:layout_height="65dp"
+        android:backgroundTint="@color/FF0288D1"
         android:text="@string/giriş"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"

@@ -7,6 +7,7 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
-    <string name="FF0288D1">FF0288D1</string>
+    <color name="FF0288D1">#FF0288D1</color>
     <string name="giriş">giriş</string>
+    <string name="FF0288D1">#FF0288D1</string>
 </resources>
