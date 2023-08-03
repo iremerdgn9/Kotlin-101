@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#FF0288D1"></solid> <!--ARKA PLAN RENK-->
+    <corners android:radius="5dp"></corners>  <!--KÖŞELERİ 5 DP OVAL-->
+    <stroke android:color="#858580" android:width="3dp"></stroke> <!--BORDER RENGİ VE 3DP BORDER-->
+</shape>
