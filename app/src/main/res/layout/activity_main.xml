@@ -41,6 +41,7 @@
         android:id="@+id/button5"
         android:layout_width="155dp"
         android:layout_height="65dp"
+        android:layout_marginTop="100dp"
         android:backgroundTint="@color/FF0288D1"
         android:text="@string/giriş"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -51,9 +52,18 @@
         tools:ignore="MissingConstraints" />
 
     <include
+        android:id="@+id/include"
         layout="@layout/ust_bar"
         android:layout_width="0dp"
         android:layout_height="70dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <include
+        layout="@layout/uyari_popup"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
